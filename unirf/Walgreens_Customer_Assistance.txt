@@ -1,0 +1,10 @@
+UP: /ext/subghz/Customer_Assistance/Walgreens/Skincare.sub
+DOWN: /ext/subghz/Customer_Assistance/Walgreens/Cough.sub
+LEFT: /ext/subghz/Customer_Assistance/Walgreens/Vitamin.sub
+RIGHT: /ext/subghz/Customer_Assistance/Walgreens/Dental.sub
+OK: /ext/subghz/Customer_Assistance/Walgreens/Fam_Plan.sub
+ULABEL: Skincare
+DLABEL: Cough
+LLABEL: Vitamin
+RLABEL: Dental
+OKLABEL: Fam Plan

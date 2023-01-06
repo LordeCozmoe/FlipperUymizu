@@ -1,0 +1,12 @@
+REMOTE: /ext/infrared/TCL_Roku_TV.ir
+UP: Up
+DOWN: Down
+LEFT: Left
+RIGHT: Right
+OK: Ok
+BACK: Back
+UPHOLD: Vol_up
+DOWNHOLD: Vol_down
+LEFTHOLD: Netflix
+RIGHTHOLD: Home
+OKHOLD: Power
